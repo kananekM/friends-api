@@ -1,10 +1,4 @@
-# friends-api
-🐶 Friends API Services for Nong Nong
+# 😎 Friends API
+Friends API Services for Young Developer
 
-Hello! My name is KantapatS just call me "Bump".
-
-Hello my nickname is Kom
-
-Hello, My name is Folk.
-
-Hello, My name is Fresh.
+You can create your API path with a name and a cool phrase in the response.
